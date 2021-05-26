@@ -17,7 +17,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://banner2.cleanpng.com/20180609/lbc/kisspng-ansible-devops-puppet-chef-configuration-managemen-becoming-a-chef-5b1bdd2ddb9d18.6137556815285527498996.jpg" alt="css3" height="40"/> 
+<img src="https://banner2.cleanpng.com/20180419/tre/kisspng-ansible-openshift-g2-technology-group-logo-configu-special-event-5ad8472b8c22b9.981464891524123435574.jpg" alt="ansible" height="40"/> 
  
 
 </p>

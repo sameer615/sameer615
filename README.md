@@ -1,11 +1,11 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sameer Sardar](https://ayushirawat.com/)
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sameer Sardar
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 ![alt text](https://github.com/sameer615/sameer615/blob/main/cover-git.jpg)
 
 
-### Skilss 🧰
+### Skills 🧰
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>

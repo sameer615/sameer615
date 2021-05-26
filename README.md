@@ -8,23 +8,25 @@
 ### Skilss 🧰
 
 <p align="left">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
+<img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.svg" alt="Docker" width="40" height="40"/>
+ <img src="https://png2.cleanpng.com/sh/e82f3c05253ac070534e8dc236d16692/L0KzQYi4UsE4N5I8TpGAYUO6Q7LoVshjO2g8S5C6NkC7Q4i4VsE2OWQ6TqoEM0S4R4G5TwBvbz==/5a373aa68b3773.1608371615135689345702.png" alt="Linux" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
+<img src="https://banner2.cleanpng.com/20180609/lbc/kisspng-ansible-devops-puppet-chef-configuration-managemen-becoming-a-chef-5b1bdd2ddb9d18.6137556815285527498996.jpg" alt="css3" height="40"/> 
+ 
+
 </p>
 
  
 
-* My primary coding language: Python
-* Earned Gold badge & 5 star at HackerRank in Python programming.
-* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
+* My primary expertise is in Linux
+* Certifed Redhat System Admin.
+* Docker & Kubernetes made life easy.
 
 ---
 

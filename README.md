@@ -6,7 +6,7 @@
 * Skilled in DevOps Engineer with experience in Automation Programming, Micro-Services, Kubernetes, Linux Administration.
 * Seeking to contribute in OpenSource projects to utilize my skills and abilities and achieve professional growth while being resourceful and innovative.
 
-[<img height="70" src="https://img.icons8.com/doodle/480/000000/follow--v1.png" style="max-width:100%;top: 10px !important;position: relative;" />][Hash]
+[<img height="70" src="https://img.icons8.com/doodle/480/000000/follow--v1.png" />][Hash]
 [<img height="30" src="https://www.transparentpng.com/thumb/twitter/twitter-bird-logo-pictures-0.png" />][Twitter]
 [<img height="30" src="https://www.transparentpng.com/thumb/linkedin/linkedin-icon-png-4.png" />][LinkedIn]
 [<img height="30" src="https://www.transparentpng.com/thumb/facebook-logo-png/facebook-logo-free-download-transparent-3.png" />][Facebook]
@@ -34,10 +34,13 @@
 
 </p>
 
-### Certifications <img height="50" style="max-width:100%;top: 20px !important;position: relative;" src="https://img.icons8.com/carbon-copy/100/000000/certificate.png"/>
-* My primary expertise is in Linux
-* Certifed Redhat System Admin.
-* Docker & Kubernetes made life easy.
+### Certifications <img height="20"  src="https://img.icons8.com/carbon-copy/100/000000/certificate.png"/>
+
+* Certified Kubernetes Administrator.
+* Redhat Certifed System Administrator.
+* Red Hat Enterprise Linux Automation with Ansible.
+* Pyhton Programming.
+* PHP Programming.
 
 ---
 

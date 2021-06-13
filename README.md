@@ -20,7 +20,7 @@
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo_with_border.svg" alt="Docker" width="40" height="40"/>
- <img src="https://png2.cleanpng.com/sh/e82f3c05253ac070534e8dc236d16692/L0KzQYi4UsE4N5I8TpGAYUO6Q7LoVshjO2g8S5C6NkC7Q4i4VsE2OWQ6TqoEM0S4R4G5TwBvbz==/5a373aa68b3773.1608371615135689345702.png" alt="Linux" width="40" height="40"/> 
+ <img src="https://www.freepnglogos.com/uploads/linux-png/image-linux-logo-recommended-games-wiki-2.png" alt="Linux"  height="40"/> 
  <img src="https://banner2.cleanpng.com/20180419/tre/kisspng-ansible-openshift-g2-technology-group-logo-configu-special-event-5ad8472b8c22b9.981464891524123435574.jpg" alt="ansible" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>

@@ -1,5 +1,7 @@
 ![alt text](https://github.com/sameer615/sameer615/blob/main/cover-git.jpg)
 
+`r fa("r-project", fill = "steelblue")`
+
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sameer Sardar
 
 * An IT professional with over 5+ years of experience in the industry as System Admin on Midrange to High-end UNIX / Linux Systems configuration & Troubleshooting. 

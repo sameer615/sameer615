@@ -2,9 +2,9 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sameer Sardar
 
-* An IT professional with over 5+ years of experience in the industry as System Admin on Midrange to High-end UNIX / Linux Systems configuration & Troubleshooting. 
-* Skilled in DevOps Engineer with experience in Automation Programming, Micro-Services, Kubernetes, Linux Administration.
-* Seeking to contribute in OpenSource projects to utilize my skills and abilities and achieve professional growth while being resourceful and innovative.
+* An IT professional with over 5+ years of experience in the industry as a System Admin on Midrange to High-end UNIX / Linux Systems configuration and troubleshooting. 
+* Skilled DevOps Engineer with experience in Automation Programming, Micro-Services, Kubernetes, and Linux Administration.
+* Seeking to contribute to OpenSource projects to utilize my skills and abilities and achieve professional growth while being resourceful and innovative.
 
 [<img height="70" src="https://img.icons8.com/doodle/480/000000/follow--v1.png" />][Hash]
 [<img height="30" src="https://www.transparentpng.com/thumb/twitter/twitter-bird-logo-pictures-0.png" />][Twitter]
@@ -18,7 +18,7 @@
 ### Skills 💻
 
 <p align="left">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AOpenShift-LogoType.svg&psig=AOvVaw3sD5IEWjXMTb8AxkqZfn0p&ust=1701982759565000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPCqkoHa-4IDFQAAAAAdAAAAABAE" alt="Openshift" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" alt="Openshift" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="Kubernetes" width="40" height="40"/>
  <img src="https://www.freepnglogos.com/uploads/linux-png/image-linux-logo-recommended-games-wiki-2.png" alt="Linux"  height="40"/> 
@@ -40,7 +40,7 @@
 * Certified Kubernetes Administrator.
 * Redhat Certifed System Administrator.
 * Red Hat Enterprise Linux Automation with Ansible.
-* Pyhton Programming.
+* Python Programming.
 * PHP Programming.
 
 ---

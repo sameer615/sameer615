@@ -35,13 +35,15 @@
 
 </p>
 
-### Certifications <img height="20"  src="https://img.icons8.com/carbon-copy/100/000000/certificate.png"/>
+### Certifications and Languages <img height="20"  src="https://img.icons8.com/carbon-copy/100/000000/certificate.png"/>
 
+* Red Hat Certified OpenShift Administrator
 * Certified Kubernetes Administrator.
 * Redhat Certifed System Administrator.
 * Red Hat Enterprise Linux Automation with Ansible.
 * Python Programming.
 * PHP Programming.
+* Shell Scripting.
 
 ---
 

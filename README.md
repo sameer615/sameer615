@@ -18,6 +18,7 @@
 ### Skills 💻
 
 <p align="left">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AOpenShift-LogoType.svg&psig=AOvVaw3sD5IEWjXMTb8AxkqZfn0p&ust=1701982759565000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPCqkoHa-4IDFQAAAAAdAAAAABAE" alt="Openshift" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="Kubernetes" width="40" height="40"/>
  <img src="https://www.freepnglogos.com/uploads/linux-png/image-linux-logo-recommended-games-wiki-2.png" alt="Linux"  height="40"/> 
